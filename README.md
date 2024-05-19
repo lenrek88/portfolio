@@ -1,2 +1,1 @@
-![alt text]([http://url/to/img.png](https://postimg.cc/LgPJ5pz6
-))
+![alt text](https://postimg.cc/LgPJ5pz6)
