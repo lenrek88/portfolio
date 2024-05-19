@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png](https://i.postimg.cc/HnZXSWn5/Chat.png))
+[url=https://postimg.cc/LgPJ5pz6][img]https://i.postimg.cc/HnZXSWn5/Chat.png[/img][/url]
